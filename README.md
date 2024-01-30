@@ -1,2 +1,2 @@
-# MART341-WebDesign
+# Callan Garner MART341-WebDesign
 Homework Repository 
