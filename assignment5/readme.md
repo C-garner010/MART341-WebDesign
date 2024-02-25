@@ -6,4 +6,4 @@ My biggest problem still stands as working from an iPad. I just hope that being 
 
 Next week, I am going to continue focusing more on how to imbed those internal links between the site. 
 
-[My screenshot](./images/assignment5-screenshot/)of the GitHub ios app. 
+[My screenshot](./images/assignment5-screenshot.PNG/)of the GitHub ios app. 
