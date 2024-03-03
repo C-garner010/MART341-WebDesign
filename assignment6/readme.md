@@ -1,0 +1,1 @@
+I don't understand why it won't load?! I need a laptop, it has become a priority. I don't even know where to begin looking for the missing piece without being able to see quicker/ easier feedback of my choices. 
