@@ -1,0 +1,84 @@
+@font-face {
+    font-family: 'Spectral' ;
+    src: url('../fonts/Spectral-Regular.ttf') format ('opentype');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'Spectral' ;
+    src: url('../fonts/Spectral-Bold.ttf') format ('opentype');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'Spectral' ;
+    src: url('../fonts/Spectral-BoldItalic.ttf') format ('opentype');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'Spectral' ;
+    src: url('../fonts/Spectral-ExtraBold.ttf') format ('opentype');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'Spectral' ;
+    src: url('../fonts/Spectral-ExtraBoldItalic.ttf') format ('opentype');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'Spectral' ;
+    src: url('../fonts/Spectral-ExtraLight.ttf') format ('opentype');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'Spectral' ;
+    src: url('../fonts/Spectral-ExtraLightItalic.ttf') format ('opentype');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'Spectral' ;
+    src: url('../fonts/Spectral-Italic.ttf') format ('opentype');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'Spectral' ;
+    src: url('../fonts/Spectral-Light.ttf') format ('opentype');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'Spectral' ;
+    src: url('../fonts/Spectral-LightItalic.ttf') format ('opentype');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'Spectral' ;
+    src: url('../fonts/Spectral-Medium.ttf') format ('opentype');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'Spectral' ;
+    src: url('../fonts/Spectral-MediumItalic.ttf') format ('opentype');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'Spectral' ;
+    src: url('../fonts/Spectral-SemiBold.ttf') format ('opentype');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'Spectral' ;
+    src: url('../fonts/Spectral-SemiBoldItalic.ttf') format ('opentype');
+    font-weight: normal;
+    font-style: normal;
+}
