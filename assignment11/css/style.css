@@ -6,6 +6,16 @@ body {
     text-indent: 1.5em;
     color:black
 }
+#spacing {
+    display: inline;
+    font-weight: bold;
+}
+
+.solid-spacing {
+    line-height: 1.45em;
+    display: block;
+    color:black;
+}
 .main-container {
     border-style: solid;
     border-width: 8px;
